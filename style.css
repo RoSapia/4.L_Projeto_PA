@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cornsilk;
+}
+.titulo {
+    text-align: center;
+}
+.container {    
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: white;
+}
+.container_resultados {
+    width: 100 px;
+    height: 100 px;
+    align-items: center;
+    justify-content: center;
+    text-align-last: center;
+}
+.correta {
+    color: green;
+}
+.errada {
+    color: red;
+}
